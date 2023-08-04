@@ -44,10 +44,3 @@ a::before {
 #button:hover {
   transform: scale(1.08)
 }
-
-h1{
-    font-family: 'Sacramento', sans-serif;
-    font-size: 96px;
-    color: #CCAA98;
-    text-shadow: 4px 4px 0 #000;
-}
