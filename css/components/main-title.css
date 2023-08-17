@@ -1,12 +1,17 @@
-.title {
+.main-title {
     font-family: 'Sacramento', sans-serif;
     font-size: 90px;
     color: #CCAA98;
     text-shadow: 4px 4px 0 #000;
 }
 
-.title.-second {
+.main-title.-second {
+    font-family: 'Potta One', sans-serif;
     color: #fff;
     text-shadow: none;
     text-align: center;
+}
+
+.title {
+    font-family: 'Potta One', sans-serif;
 }
